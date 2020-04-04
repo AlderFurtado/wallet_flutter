@@ -15,4 +15,4 @@ A Project to simulete a wallet app
 
 | Main        | Adding           | Statistics  |
 | ------------- |:-------------:|:-----:|
-| <img src="./lib/images/s1.jpeg" alt="drawing" width="200"/>   |<img src="./lib/images/s3.jpeg" alt="drawing" width="200"/> | <img src="./lib/images/s1.jpeg" alt="drawing" width="200"/> |
+| <img src="./lib/images/s1.jpeg" alt="drawing" width="200"/>   |<img src="./lib/images/s3.jpeg" alt="drawing" width="200"/> | <img src="./lib/images/s2.jpeg" alt="drawing" width="200"/> |
